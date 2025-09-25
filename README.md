@@ -23,20 +23,17 @@ This platform allows users to explore doctors, view detailed information, filter
 
 ## 📸 Screenshots  
 
-### Homepage  
-![Homepage Screenshot](screenshots/homepage.png)  
+| Home Page | All Doctor's Page |
+|-----------|--------------|
+| ![Home](screenshots/homepage.png) | ![All Doctor](screenshots/all_doctors.png) |
 
-### All Doctor's Page  
-![Doctor Details Screenshot](screenshots/all_doctors.png) 
-
-### Doctor Details Page  
-![Doctor Details Screenshot](screenshots/doctors_details.png) 
+| Doctor Details Page | User Profile  |
+|--------------|------------|
+| ![Doctor Details](screenshots/doctors_details.png) | ![User Profile ](screenshots/patient_profile.png) |
 
 ### Appointment Booking Page  
 ![Appointment Booking Screenshot](screenshots/my_appointments.png)  
 
-### User Profile  
-![User Profile Screenshot](screenshots/patient_profile.png)  
 
 ---
 git clone https://github.com/your-username/Prescripto-frontend.git
